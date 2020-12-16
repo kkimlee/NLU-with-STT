@@ -41,3 +41,6 @@
 정규빈 :
 
 ## 참고 자료
+
+딥러닝을 통한 자연어 처리 기술 강의
+> https://www.youtube.com/watch?v=F8b0jGyZ_W8&list=PLPnz16EC6-Q4u28IwbqHvqADbDTGQ9YY8&index=1 1강
