@@ -41,3 +41,4 @@
 정규빈 :
 
 ## 참고 자료
+https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset
