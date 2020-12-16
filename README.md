@@ -46,6 +46,5 @@ kaggle 데이터
 
 딥러닝을 활용한 자연어 처리 기술 실습
 > https://www.youtube.com/watch?v=F8b0jGyZ_W8 1강
-
 > https://www.youtube.com/watch?v=MNq9_XBQqms 2강
 
