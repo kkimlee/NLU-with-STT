@@ -51,5 +51,5 @@ kaggle 데이터
 > https://www.youtube.com/watch?v=2QzwIThP8pw&t=571s 4강
 
 배원식, 차정원, "정서분석을 위한 의견관계 자동 추출", 한국정보과학회논문지: 소프트웨어 및 응용, 제 40권, 제 5호, pp. 473-481, 2013.
-https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02223717&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR
+> https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02223717&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR
 
