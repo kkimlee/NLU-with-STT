@@ -50,6 +50,9 @@ korquad 데이터
 NLU란?
 > https://blog.lgcns.com/1672    
 
+NLU연구동향
+> https://www.kakaobrain.com/blog/118    
+
 NLU 평가 
 > GLUE    
 > 번역 : https://huffon.github.io/2019/11/16/glue/    
