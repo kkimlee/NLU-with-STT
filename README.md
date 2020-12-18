@@ -57,7 +57,10 @@ SKplanet Tacademy 자연어/음성인식/음성합성/AI스피커
 > https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02223717&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR
 
 KoSpeech
-> https://github.com/sooftware/KoSpeech
+> github    
+> https://github.com/sooftware/KoSpeech    
+> 논문 참조
+> https://arxiv.org/abs/2009.03092
 
 ALBERT Classifier
 > github    
