@@ -47,6 +47,9 @@ kaggle 데이터
 korquad 데이터    
 > https://korquad.github.io/    
 
+자연어 처리 기술 동향
+> https://www.aitimes.kr/news/articleView.html?idxno=15036
+
 NLU란?
 > https://blog.lgcns.com/1672    
 
@@ -93,9 +96,6 @@ Headline Calssification with SVM
 
 카카오 형태소 분석기    
 > https://github.com/kakao/khaiii    
-
-자연어 처리 기술 동향
-> https://www.aitimes.kr/news/articleView.html?idxno=15036
 
 Generation Pre-trained Transformer 3
 > github    
