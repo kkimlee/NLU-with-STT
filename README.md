@@ -76,4 +76,7 @@ Headline Calssification with SVM
 > RAMESHBHAI, Chaudhary Jashubhai; PAULOSE, Joy. Opinion mining on newspaper headlines using SVM and NLP. International Journal of Electrical & Computer Engineering (2088-8708), 2019, 9.3.
 
 카카오 형태소 분석기    
-> https://github.com/kakao/khaiii
+> https://github.com/kakao/khaiii    
+
+자연어 처리 기술 동향
+> https://www.aitimes.kr/news/articleView.html?idxno=15036
