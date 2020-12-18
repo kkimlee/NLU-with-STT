@@ -60,6 +60,9 @@ KoSpeech
 > https://github.com/sooftware/KoSpeech
 
 ALBERT Classifier
-> https://github.com/google-research/albert
+> https://github.com/google-research/albert    
 논문 참조
-> https://arxiv.org/abs/1909.11942
+> https://arxiv.org/abs/1909.11942    
+리뷰
+> https://jeonsworld.github.io/NLP/albert/    
+> https://y-rok.github.io/nlp/2019/10/23/albert.html
