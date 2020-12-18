@@ -102,3 +102,6 @@ Generation Pre-trained Transformer 3
 > https://github.com/openai/gpt-3    
 > 논문 참조    
 > https://arxiv.org/abs/2005.14165
+
+T-5
+> https://arxiv.org/pdf/1910.10683.pdf
