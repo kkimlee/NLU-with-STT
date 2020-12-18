@@ -56,3 +56,6 @@ SKplanet Tacademy 자연어/음성인식/음성합성/AI스피커
 배원식, 차정원, "정서분석을 위한 의견관계 자동 추출", 한국정보과학회논문지: 소프트웨어 및 응용, 제 40권, 제 5호, pp. 473-481, 2013.
 > https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02223717&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR
 
+KoSpeech
+> https://github.com/sooftware/KoSpeech
+
