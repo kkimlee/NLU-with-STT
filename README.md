@@ -68,3 +68,6 @@ ALBERT Classifier
 > https://jeonsworld.github.io/NLP/albert/    
 > https://y-rok.github.io/nlp/2019/10/23/albert.html    
 > http://isukorea.com/blog/home/waylight3/446
+
+Data Preprocessing With SVM
+http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=1&sid=65515312-abf3-47a8-876b-6d41b54db0df%40sessionmgr103
