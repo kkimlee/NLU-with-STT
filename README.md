@@ -70,4 +70,4 @@ ALBERT Classifier
 > http://isukorea.com/blog/home/waylight3/446
 
 Data Preprocessing With SVM
-> http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=1&sid=65515312-abf3-47a8-876b-6d41b54db0df%40sessionmgr103
+> RAMESHBHAI, Chaudhary Jashubhai; PAULOSE, Joy. Opinion mining on newspaper headlines using SVM and NLP. International Journal of Electrical & Computer Engineering (2088-8708), 2019, 9.3.
