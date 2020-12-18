@@ -60,7 +60,7 @@ KoSpeech
 > https://github.com/sooftware/KoSpeech
 
 ALBERT Classifier
-> 
+> github    
 > https://github.com/google-research/albert    
 > 논문 참조    
 > https://arxiv.org/abs/1909.11942    
