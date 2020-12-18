@@ -70,4 +70,4 @@ ALBERT Classifier
 > http://isukorea.com/blog/home/waylight3/446
 
 Data Preprocessing With SVM
-http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=1&sid=65515312-abf3-47a8-876b-6d41b54db0df%40sessionmgr103
+> http://eds.b.ebscohost.com/eds/pdfviewer/pdfviewer?vid=1&sid=65515312-abf3-47a8-876b-6d41b54db0df%40sessionmgr103
