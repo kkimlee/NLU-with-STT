@@ -105,3 +105,6 @@ Generation Pre-trained Transformer 3
 
 T-5
 > https://arxiv.org/pdf/1910.10683.pdf
+
+오디오 전처리 작업
+> https://github.com/scpark20/audio-preprocessing-practice
