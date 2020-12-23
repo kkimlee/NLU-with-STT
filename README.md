@@ -62,6 +62,8 @@ NLU 평가
 > 원문 : https://mccormickml.com/2019/11/05/GLUE/
 > SQuAD
 
+딥러닝을 이용한 자연어 처리 입문
+> https://wikidocs.net/book/2155
 
 딥러닝을 활용한 자연어 처리 기술 실습
 > https://www.youtube.com/watch?v=F8b0jGyZ_W8 1강    
@@ -71,6 +73,9 @@ NLU 평가
 
 SKplanet Tacademy 자연어/음성인식/음성합성/AI스피커
 > https://www.youtube.com/c/SKplanetTacademy/playlists?view=50&sort=dd&shelf_id=4
+
+트랜스포머 모델
+> https://blog.pingpong.us/transformer-review/
 
 배원식, 차정원, "정서분석을 위한 의견관계 자동 추출", 한국정보과학회논문지: 소프트웨어 및 응용, 제 40권, 제 5호, pp. 473-481, 2013.
 > https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02223717&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR
