@@ -41,12 +41,15 @@
 정규빈 :
 
 ## 참고 자료
+
+### 데이터
 kaggle 데이터
 > https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset
 
 korquad 데이터    
 > https://korquad.github.io/    
 
+### 개념 정리 및 논문
 자연어 처리 기술 동향
 > https://www.aitimes.kr/news/articleView.html?idxno=15036
 
@@ -83,6 +86,13 @@ SKplanet Tacademy 자연어/음성인식/음성합성/AI스피커
 자연어 처리 논문 모음
 > https://github.com/papower1/Awesome-Korean-NLP-Papers    
 
+Headline Calssification with SVM
+> RAMESHBHAI, Chaudhary Jashubhai; PAULOSE, Joy. Opinion mining on newspaper headlines using SVM and NLP. International Journal of Electrical & Computer Engineering (2088-8708), 2019, 9.3.
+
+T-5
+> https://arxiv.org/pdf/1910.10683.pdf
+
+### 예제 코드
 KoSpeech
 > github    
 > https://github.com/sooftware/KoSpeech    
@@ -99,9 +109,6 @@ ALBERT Classifier
 > https://y-rok.github.io/nlp/2019/10/23/albert.html    
 > http://isukorea.com/blog/home/waylight3/446
 
-Headline Calssification with SVM
-> RAMESHBHAI, Chaudhary Jashubhai; PAULOSE, Joy. Opinion mining on newspaper headlines using SVM and NLP. International Journal of Electrical & Computer Engineering (2088-8708), 2019, 9.3.
-
 카카오 형태소 분석기    
 > https://github.com/kakao/khaiii    
 
@@ -111,8 +118,6 @@ Generation Pre-trained Transformer 3
 > 논문 참조    
 > https://arxiv.org/abs/2005.14165
 
-T-5
-> https://arxiv.org/pdf/1910.10683.pdf
 
 오디오 전처리 작업
 > https://github.com/scpark20/audio-preprocessing-practice
