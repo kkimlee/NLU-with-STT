@@ -86,10 +86,15 @@ SKplanet Tacademy 자연어/음성인식/음성합성/AI스피커
 자연어 처리 논문 모음
 > https://github.com/papower1/Awesome-Korean-NLP-Papers    
 
+NLP 한국어로 잘 설명되어있는곳
+> https://wikidocs.net/22660
+
 Headline Calssification with SVM
 > RAMESHBHAI, Chaudhary Jashubhai; PAULOSE, Joy. Opinion mining on newspaper headlines using SVM and NLP. International Journal of Electrical & Computer Engineering (2088-8708), 2019, 9.3.
 
 T-5
+
+
 > https://arxiv.org/pdf/1910.10683.pdf
 
 ### 예제 코드
@@ -124,3 +129,4 @@ Generation Pre-trained Transformer 3
 
 한국어 임베딩 튜토리얼 코드(BERT 포함)
 > https://ratsgo.github.io/embedding/
+
