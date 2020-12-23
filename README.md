@@ -121,3 +121,6 @@ Generation Pre-trained Transformer 3
 
 오디오 전처리 작업
 > https://github.com/scpark20/audio-preprocessing-practice
+
+한국어 임베딩 튜토리얼 코드(BERT 포함)
+> https://ratsgo.github.io/embedding/
