@@ -1,0 +1,11 @@
+
+# Default ignored files
+/workspace.xml
+*.xml
+*.iml
+*.suo
+*.json
+*.sqlite
+*.wav
+*.txt
+*.zip
