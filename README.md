@@ -89,6 +89,9 @@ SKplanet Tacademy 자연어/음성인식/음성합성/AI스피커
 NLP 한국어로 잘 설명되어있는곳
 > https://wikidocs.net/22660
 
+형태소 분석기 성능 비교    
+> https://passerby14.tistory.com/3    
+
 Headline Calssification with SVM
 > RAMESHBHAI, Chaudhary Jashubhai; PAULOSE, Joy. Opinion mining on newspaper headlines using SVM and NLP. International Journal of Electrical & Computer Engineering (2088-8708), 2019, 9.3.
 
