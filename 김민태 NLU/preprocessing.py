@@ -19,6 +19,10 @@ with open('dataset/transcript.v.1.4.txt', mode='r', encoding='utf-8') as file:
         else:
             break
 
+'''
+
+'''
+
 # Twitter 형태소 분석기
 okt = Okt()
 
@@ -45,6 +49,10 @@ kkma_nouns = list()
 for data in scenario:
     # 형태소 추출
     kkma_morphs.append(kkma.morphs(data))
+    # 형태소 태깅
+    kkma_pos.append(kkma.pos(data))
+    # 명사 추출
+    kkma_nouns.append(kkma.nouns(data))
 
 '''
 # 음성 파일 읽어오기
