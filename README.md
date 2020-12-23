@@ -81,7 +81,8 @@ SKplanet Tacademy 자연어/음성인식/음성합성/AI스피커
 > https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02223717&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR
 
 자연어 처리 논문 모음
-> https://github.com/papower1/Awesome-Korean-NLP-Papers
+> https://github.com/papower1/Awesome-Korean-NLP-Papers    
+
 KoSpeech
 > github    
 > https://github.com/sooftware/KoSpeech    
