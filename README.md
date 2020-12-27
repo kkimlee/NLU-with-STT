@@ -133,3 +133,6 @@ Generation Pre-trained Transformer 3
 한국어 임베딩 튜토리얼 코드(BERT 포함)
 > https://ratsgo.github.io/embedding/
 
+한국어 의도분류(클래스 7개)
+> https://github.com/warnikchow/dlk2nlp
+
