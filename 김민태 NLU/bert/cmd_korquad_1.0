@@ -1,0 +1,11 @@
+$ python src/run_korquad_1.0.py --init_checkpoint=HanBert-54kN/HanBert-54kN --bert_config_file=HanBert-54kN/HanBert-54kN/bert_config.json --vocab_file=HanBert-54kN/HanBert-54kN/vocab_54k.txt --do_train=true --do_predict=true --train_batch_size=16 --num_train_epochs=5.0 --learning_rate=3e-5 --train_file=KorQuAD_v1.0_train.json --predict_file=KorQuAD_v1.0_dev.json --output_dir=54kN-result
+$ time python src/run_korquad_1.0.py --init_checkpoint=HanBert-54kN/HanBert-54kN-IP --bert_config_file=HanBert-54kN/HanBert-54kN-IP/bert_config.json --vocab_file=HanBert-54kN/HanBert-54kN-IP/vocab_54k.txt --do_train=true --do_predict=true --train_batch_size=16 --num_train_epochs=5.0 --learning_rate=3e-5 --train_file=KorQuAD_v1.0_train.json --predict_file=KorQuAD_v1.0_dev.json --output_dir=54kN-IP-result
+real	130m5.984s
+user	54m54.364s
+sys	28m56.004s
+
+$ python evaluate-v1.0.py KorQuAD_v1.0_dev.json 54kN-result/predictions.json
+EM = 83.495     F1 = 93.146 
+
+$ python evaluate-v1.0.py KorQuAD_v1.0_dev.json 54kN-IP-result/predictions.json
+EM = 81.902     F1 = 92.026 
